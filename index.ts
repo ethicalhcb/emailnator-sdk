@@ -1,3 +1,3 @@
-import { generateEmail, inbox, message } from "./bin/emailnator";
-
-export { generateEmail, inbox, message };
+import { configureEmailnator, generateEmail, inbox, message } from './bin/emailnator';
+  
+export { configureEmailnator, generateEmail, inbox, message };
