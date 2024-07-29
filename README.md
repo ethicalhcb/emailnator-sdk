@@ -11,7 +11,7 @@ To install, you need to have Node.js and npm installed on your machine. If you d
 To install Emailnator Unofficial SDK, run the following command:
 
 ```bash
-sudo npm install emailnator-sdk
+npm install emailnator-sdk
 ```
 
 ## 👨‍💻 Usage
@@ -48,7 +48,7 @@ inbox("xxxx.xxxx.xxxx@gmail.com").then((emails: any) => {
   console.log(emails);
 });
 
-// get message by id
+// get message by id (get to list)
 message("xxxx.xxxx.xxxx@gmail.com", "MTkwZmQ4MjU3MjU4ODhkMQ==").then(
   (email: any) => {
     console.log(email);
