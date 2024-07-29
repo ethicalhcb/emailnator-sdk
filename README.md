@@ -1,6 +1,6 @@
 # Emailnator Unofficial SDK
 
-Emailnator Unofficial SDK is a Unofficial SDK interface for generating email addresses and reading emails. Please use it responsibly and ethically.
+Emailnator SDK is a Unofficial interface for generating email addresses and reading emails. 
 
 > **Please note that I am not responsible for the usage of this program. Use it responsibly and ethically.**
 

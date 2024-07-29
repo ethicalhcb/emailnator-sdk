@@ -1,7 +1,7 @@
 {
   "name": "emailnator-sdk",
   "module": "index.ts",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
@@ -15,5 +15,13 @@
     "puppeteer-extra-plugin": "^3.2.3",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "user-agents": "^1.1.280"
-  }
+  },
+  "keywords": [
+    "emailnator",
+    "emailnator-sdk",
+    "emailnator-api",
+    "emailnator-js",
+    "emailnator-sdk-node"
+  ],
+  "description": "Emailnator SDK is a Unofficial interface for generating email addresses and reading emails."
 }
