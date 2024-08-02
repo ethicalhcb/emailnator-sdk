@@ -1,7 +1,7 @@
 {
   "name": "emailnator-sdk",
   "module": "index.ts",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
